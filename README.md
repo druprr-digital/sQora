@@ -1,0 +1,2 @@
+# sQora
+School Management System
